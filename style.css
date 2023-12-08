@@ -1,22 +1,23 @@
 .corpo{
-    background-color: rgb(19, 241, 204);
-    color: green;
+    background-color: rgba(8, 245, 206, 0.884);
+    color: rgb(0, 20, 0);
     text-align: center;
     border: 10px;
     border-style: groove;
-    border-color: black;
+    border-color: rgb(224, 9, 9);
 }
 
 p{
-    color: aquamarine;
-    font-size: 25px;
+    color: rgba(16, 224, 155, 0.986);
+    font-size: 20px;
 }
 
 #link{
-color: blue;
+color: rgb(25, 245, 245);
 text-decoration: none;
 }
+
 #link:hover{
-    color: rgb(233, 46, 22);
+    color: rgb(14, 28, 221);
     font-size: 15px;
     }
